@@ -1,0 +1,7 @@
+.border{
+/*border: red 1px solid
+border-width: 4px 2px 6px 15px;
+ border-style: dashed solid;
+ border-color: blue green red yellow;*/
+ border-left: solid red 5px;
+}
