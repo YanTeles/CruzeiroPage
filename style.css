@@ -1,8 +1,17 @@
-
-div,span{
-    border: solid blue;
-    width: 50%;
+p{
+    /*font-family: monospace;*/
+    text-transform: lowercase;
+    text-align: justify;
+    
 }
-.margin{
-    margin:30px;
+
+mark{
+    color: red;
+    text-transform: uppercase;
+}
+
+a{
+text-decoration: none;
+
+
 }
