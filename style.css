@@ -1,17 +1,12 @@
 p{
-    /*font-family: monospace;*/
-    text-transform: lowercase;
-    text-align: justify;
+
+}
+body{
+    background-image: url(https://img.freepik.com/fotos-gratis/3d-renderizar-icone-de-raio-de-trovao-de-venda-de-relampago_107791-17347.jpg?semt=ais_hybrid&w=740);
+    background-repeat: no-repeat;
+    background-size: 35px;
     
+    background-position-x:center ;
+    background-position-y: top;
 }
 
-mark{
-    color: red;
-    text-transform: uppercase;
-}
-
-a{
-text-decoration: none;
-
-
-}
