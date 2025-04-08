@@ -7,7 +7,7 @@ p{
 
 
 
-.Matheus {
+.Matheus img{
 display: flex;
 justify-content: center;
 align-items: center;
@@ -47,6 +47,7 @@ text-decoration: none;
     margin-top: 20px;
 }
 .voltar img{
+    padding-left: 50px;
     width: 50px;
     height: auto;
     cursor: pointer;
