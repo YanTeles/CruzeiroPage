@@ -1,38 +1,41 @@
-p{
+p {
     /*font-family: monospace;*/
     text-transform: lowercase;
     text-align: justify;
-    
-}
-
-
-
-.Matheus img{
-display: flex;
-justify-content: center;
-align-items: center;
 
 }
 
-.voltar{
-width: 10px;
-height: 10px;
+
+.text {
+    margin: 1px;
 }
 
-mark{
+.Matheus img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.voltar {
+    width: 10px;
+    height: 10px;
+}
+
+mark {
     color: red;
     text-transform: uppercase;
 }
 
-a{
-text-decoration: none;
+a {
+    text-decoration: none;
 
+   
 
 }
-
-.Matheus img{
-    
-        width: 600px;
+.gabi img{
+    width: 600px;
         height: 500px;
         border-radius: 24px;
         text-align: center;
@@ -41,12 +44,24 @@ text-decoration: none;
         align-items: center;
 }
 
-.voltar{
+.Matheus img {
+
+    width: 600px;
+    height: 500px;
+    border-radius: 24px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+    align-items: center;
+}
+
+.voltar {
     display: flex;
     justify-content: center;
     margin-top: 20px;
 }
-.voltar img{
+
+.voltar img {
     padding-left: 50px;
     width: 50px;
     height: auto;
