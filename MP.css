@@ -1,0 +1,36 @@
+.MP img {
+    width: 600px;
+    height: 500px;
+    border-radius: 24px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px blue;
+    align-items: center;
+}
+
+.MP {
+    text-align: center;
+    border-radius: 8px;
+}
+
+.Superação{
+    position: relative;
+    left: 20px;
+    
+}
+.Voltar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Voltar img {
+    padding-left: 50px;
+    width: 50px;
+    height: auto;
+    cursor: pointer;
+}
+.Voltar {
+    width: 10px;
+    height: 10px;
+}

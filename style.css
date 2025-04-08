@@ -1,22 +1,7 @@
-p {
-    /*font-family: monospace;*/
-    text-transform: lowercase;
-    text-align: justify;
-
-}
-
-
 .text {
     margin: 1px;
 }
 
-.Matheus img {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-
-}
 
 .voltar {
     width: 10px;
@@ -31,17 +16,23 @@ mark {
 a {
     text-decoration: none;
 
-   
+
 
 }
-.gabi img{
+
+.Gabi {
+    text-align: center;
+    border-radius: 8px;
+}
+
+.Gabi img {
     width: 600px;
-        height: 500px;
-        border-radius: 24px;
-        text-align: center;
-        margin: 20px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
-        align-items: center;
+    height: 500px;
+    border-radius: 24px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+    align-items: center;
 }
 
 .Matheus img {
@@ -50,9 +41,13 @@ a {
     height: 500px;
     border-radius: 24px;
     text-align: center;
-    margin: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
+    box-shadow: 0 4px 8px blue;
     align-items: center;
+}
+
+.Matheus {
+    text-align: center;
+    border-radius: 8px;
 }
 
 .voltar {
