@@ -1,64 +1,7 @@
-.text {
-    margin: 1px;
+section:has(div:hover){
+    border: 2px solid red;
 }
 
-
-.voltar {
-    width: 10px;
-    height: 10px;
-}
-
-mark {
-    color: red;
-    text-transform: uppercase;
-}
-
-a {
-    text-decoration: none;
-
-
-
-}
-
-.Gabi {
-    text-align: center;
-    border-radius: 8px;
-}
-
-.Gabi img {
-    width: 600px;
-    height: 500px;
-    border-radius: 24px;
-    text-align: center;
-    margin: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 2);
-    align-items: center;
-}
-
-.Matheus img {
-
-    width: 600px;
-    height: 500px;
-    border-radius: 24px;
-    text-align: center;
-    box-shadow: 0 4px 8px blue;
-    align-items: center;
-}
-
-.Matheus {
-    text-align: center;
-    border-radius: 8px;
-}
-
-.voltar {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.voltar img {
-    padding-left: 50px;
-    width: 50px;
-    height: auto;
-    cursor: pointer;
-}
+/* .text::first-letter{
+font-size: 100px;
+} */
