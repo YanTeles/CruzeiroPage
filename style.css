@@ -1,13 +1,10 @@
-/* /* section:has(div:hover){
-    border: 2px solid red; */
-/* border-radius: 15px; */
-/* } */
+
 
 /* section:has(div:hover){
 div:nth-child(2){
     background-color: blue;
 }
-} */
+
 /* div{
     position: relative;
 } */
