@@ -8,9 +8,9 @@ div:nth-child(2){
     background-color: blue;
 }
 } */
-/* div{
+div{
     position: relative;
-} */
+}
 
 .container{
     content: "";
