@@ -25,6 +25,8 @@
  .container{
     /* height: 50vh; */
     display: flex;
+    height: 500px;
+    
  }
 
  .container{
